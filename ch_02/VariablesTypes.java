@@ -1,3 +1,5 @@
+package ch_02;
+
 public class VariablesTypes {
 	public static void main(String[] args) {
     // 基本型別
